@@ -13,4 +13,4 @@ br->breakline
 input->user  input
 textarea->paragraph writteen
 attribute :tpye ,name,placeholder,rows, cols
-type->(text(for text box ),radio(select only  on option),email(for writting email),date-time-local(calendder) submit(submit  from),reset,file,color,tel,checkbox,password,
+type->(text(for text box ),radio(select only  on option),email(for writting email),date-time-local(calendder) submit(submit  from),reset(reset all),file(to upload file),color(color set),tel(number),checkbox(select many options),password(enter password),
